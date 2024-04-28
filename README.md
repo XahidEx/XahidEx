@@ -24,4 +24,4 @@
 ---
 
 [website]: https://xahidex.com
-[linkedin]: https://uk.linkedin.com/in/xahidex
+[linkedin]: https://www.linkedin.com/in/xahidex
