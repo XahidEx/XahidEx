@@ -19,7 +19,7 @@
 - [Integrate Google AdSense in NextJs: A Step-by-Step Guide](https://xahidex.com/blog/nextjs-adsense)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://xahidex.com.dev/)
+➡️ [more blog posts...](https://xahidex.com/blog/)
 
 ---
 
